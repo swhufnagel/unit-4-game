@@ -2,5 +2,9 @@
     display:none;
 }
 .showPlay{
-    display:show;
+    display:inline;
+}
+.crystal{
+    height:100px;
+    width:100px;
 }
